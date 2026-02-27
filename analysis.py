@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 # =========================
 # CHANGE THIS PATH
 # =========================
-csv_path = "/home/debojit/Debojit_WS/project_sam/Data/Activity_1.csv"
+csv_path = "/home/iitgn-robotics/Debojit_WS/project_sam/Data/Activity_1.csv"
 
 
 # =========================

@@ -12,7 +12,7 @@ from mpl_toolkits.mplot3d import Axes3D  # noqa: F401
 # =========================
 # CHANGE THIS PATH
 # =========================
-csv_path = "/home/debojit/Debojit_WS/project_sam/Data/Activity_1.csv"
+csv_path = "/home/iitgn-robotics/Debojit_WS/project_sam/Data/Activity_1.csv"
 
 
 # =========================
